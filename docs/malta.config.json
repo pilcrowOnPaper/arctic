@@ -1,6 +1,6 @@
 {
 	"name": "Arctic",
-	"description": "Arctic is a library that provides OAuth 2.0 clients for major providers.",
+	"description": "Arctic is a collection of OAuth 2.0 clients for popular providers.",
 	"domain": "https://arctic.js.org",
 	"twitter": "@pilcrowonpaper",
 	"sidebar": [
@@ -9,7 +9,7 @@
 			"pages": [
 				["OAuth 2.0", "/guides/oauth2"],
 				["OAuth 2.0 with PKCE", "/guides/oauth2-pkce"],
-				["OpenID Connect", "/guides/oidc"]
+				["Migrate to v2", "/guides/migrate-v2"]
 			]
 		},
 		{
@@ -35,7 +35,6 @@
 				["Google", "/providers/google"],
 				["Intuit", "/providers/intuit"],
 				["Kakao", "/providers/kakao"],
-				["Keycloak", "/providers/keycloak"],
 				["Lichess", "/providers/lichess"],
 				["Line", "/providers/line"],
 				["Linear", "/providers/linear"],
@@ -50,7 +49,8 @@
 				["Roblox", "/providers/roblox"],
 				["Salesforce", "/providers/salesforce"],
 				["Shikimori", "/providers/shikimori"],
-				["Slack", "/providers/slack"],
+				["Slack (App)", "/providers/slack-app"],
+				["Slack (OpenID)", "/providers/slack-openid"],
 				["Spotify", "/providers/spotify"],
 				["Strava", "/providers/strava"],
 				["Tiltify", "/providers/tiltify"],
